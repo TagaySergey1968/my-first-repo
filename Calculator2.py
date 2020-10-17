@@ -10,5 +10,5 @@ result=a-b
 elif op=="*":
 result=a*b
 elif op=="pow":
-result=(a,b)
+result=pow(a,b)
 print("Result{:.2f}".format(result))
