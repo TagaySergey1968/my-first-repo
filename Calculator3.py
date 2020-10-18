@@ -14,3 +14,4 @@ result=pow(a,b)
 if not result:
   print("invalid input")
 print("Result{:.2f}".format(result))
+
